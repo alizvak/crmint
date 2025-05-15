@@ -13,6 +13,9 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
+pip install packaging>=24.0
+# or
+pip install wheel==0.40.
 
 set -e
 
